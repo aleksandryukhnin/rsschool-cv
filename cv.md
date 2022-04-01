@@ -1,7 +1,6 @@
 ![Avatar](https://aleksandryukhnin.github.io/images/avatar.png)
 
 ### Aleksandr Yukhnin
-
 ### Contacts
 * email: a22m23@yandex.ru
 * tel: +7950-177-93-86 - telegram, viber, whatsapp
@@ -36,6 +35,7 @@ In addition to his main duties, he was also engaged in 1C testing: modular, syst
 * providing kaspersky security center antivirus protection;
 * knowledge of the principles of network protocols;
 * experience working with commercial equipment (printers and barcode scanners).
+
 ---
 ### Code example
 ```
@@ -43,6 +43,7 @@ function multiply(a, b){
   return a * b
 }
 ```
+
 ---
 ### Education
 1. [HTML CSS Basics](https://disk.yandex.ru/i/d_VJZd-MYEX98Q "Course on the basics of html css layout")
