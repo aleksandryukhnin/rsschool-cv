@@ -22,3 +22,35 @@ In addition to his main duties, he was also engaged in 1C testing: modular, syst
 
 ---
 ### Skills
+*Soft*
+* learnability;
+* ability to prioritize and plan processes according to them;
+* constructive business communication skills;
+* experience of contractual work (service centers);
+* inventory of equipment;
+* experience working with remote users.
+
+*Hard*
+* windows at the system administrator level (AD, GPO, DHCP, DNS, FS, Print Servers);
+* working with ssh;
+* office software administration;
+* providing kaspersky security center antivirus protection;
+* knowledge of the principles of network protocols;
+* experience working with commercial equipment (printers and barcode scanners).
+---
+### Code example
+```
+function multiply(a, b){
+  return a * b
+}
+```
+---
+### Education
+1. [HTML CSS Basics](https://disk.yandex.ru/i/d_VJZd-MYEX98Q "Course on the basics of html css layout")
+2. [Basics of software testing](https://disk.yandex.ru/i/R6IcKm_3A2CdbA "Course on the basics of software testing")
+3. [Layout of the first landing page block](https://aleksandryukhnin.github.io/works/gefest/index.html "Gefest")
+4. [Layout and landing page design](https://aleksandryukhnin.github.io/works/LPtheatre/index.html "State Theater")
+
+---
+### English
+I don't know English, just some words and phrases. I am currently learning English using the Ticher Method app.
