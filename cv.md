@@ -17,7 +17,6 @@ In addition to his main duties, he was also engaged in 1C testing: modular, syst
 * was also engaged in 1C testing;
 * at the moment I work as a 1C technical support specialist + 1C programmer.
 
-
 ***There are a lot of skills, knowledge in each area is superficial. That's why I want to develop in one direction and be a professional.***
 
 ---
